@@ -2244,11 +2244,11 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/image9.jpeg"), url("../../images/intro.jpg");
+		background: url("images/WorkingFTL_\ logo2018\ \(1\).jpg"), url("../../images/intro.jpg");
 		background-size: contain;
 		background-attachment: fixed, fixed;
-		/* background-position: top left, bottom center; */
-		background-repeat: repeat, no-repeat;
+		background-position: top center;
+		background-repeat: no-repeat;
 	}
 
 /* One */
