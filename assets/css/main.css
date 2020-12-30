@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/WorkingFTL_\ logo2018\ \(1\).jpg"), url("../../images/intro.jpg");
+		background: url("images/"), url("../../images/intro.jpg");
 		background-size: contain;
 		background-attachment: fixed, fixed;
 		background-position: top center;
